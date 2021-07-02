@@ -44,3 +44,18 @@ body{
 .btn-info:hover{
     background-color: rgb(67, 83, 230)!important;
 }
+.btn-info:hover{
+    background-color: rgb(67, 83, 230)!important;
+}
+.table-danger_1{
+  background-color: chartreuse;
+  text-align-last: center;
+}
+.table-light_1{
+    text-align-last: center;
+    background-color: chartreuse;
+}
+.table-info_1{
+    text-align-last: center;
+    background-color: chartreuse;
+}
