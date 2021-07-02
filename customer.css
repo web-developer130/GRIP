@@ -1,0 +1,46 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(184, 220, 235);
+}
+
+/* navbar css starts here  */
+.navbar-expand-md {
+    background-color: #376f3a!important;
+}
+.container-fluid {
+    background-color: #376f3a!important;
+
+}
+
+.container-fluid{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1.5rem;
+    color: hsl(0, 78%, 44%)!important;
+}
+
+.nav-link{
+    color: hsl(145, 63%, 48%)!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #8d0d0d;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(68, 0, 255)!important;
+    color: rgb(255, 255, 255)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(67, 83, 230)!important;
+}

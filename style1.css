@@ -1,0 +1,44 @@
+.nav-wrapper{
+    background-color:#376f3a;
+    margin:2px;
+}
+.brand-logo{
+    margin-left:20px;
+}
+#nav-mobile ul li a{
+    text-decoration:none;
+    color:white;
+    display:block;
+
+}
+#nav-mobile ul li a:hover{
+    background-color:rgb(red, green, blue);
+}
+.slider.indicators.indicator-item.action{
+    background-color:#376f3a;
+
+}
+.parallax-container{
+    min-height:280px;
+    height:auto;
+
+}
+.icon-coffee{
+    color: #376f3a;
+}
+.footer-one{
+    background:#376f3a ;
+}
+.footer-two{
+    background: #ce0a1a;
+}
+.header{
+    font-size:20px;
+   
+}
+.brand-logo{
+    color:rgb(226, 43, 89);
+}
+.header{
+    color:crimson;
+}
