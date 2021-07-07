@@ -59,3 +59,25 @@ body{
     text-align-last: center;
     background-color: chartreuse;
 }
+.container-fluid a:hover{
+    background: #03e9f4;
+    color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 5px #03e9f4,
+                0 0 25px #03e9f4,
+                0 0 50px #03f9f4,
+                0 0 100px #03e9f4;
+  
+
+}
+.container-fluid button:hover{
+    background: #03e9f4;
+    color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 5px #03e9f4,
+                0 0 25px #03e9f4,
+                0 0 50px #03f9f4,
+                0 0 100px #03e9f4;
+  
+
+}
