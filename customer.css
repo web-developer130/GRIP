@@ -81,3 +81,22 @@ body{
   
 
 }
+.modal-body{
+    background-color: cyan;
+}
+.modal-header h5{
+    margin-left: 150px;
+}
+.modal-footer button:hover{
+    background: #03e9f4;
+    color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 5px #03e9f4,
+                0 0 25px #03e9f4,
+                0 0 50px #03f9f4,
+                0 0 100px #03e9f4;
+
+}
+.modal-footer button{
+margin-right:100px;
+}
